@@ -9,7 +9,7 @@ public static void main (String args[]){
        int marks[]=new int[100];
        // find length array
        System.out.println("array of length :"+marks.length);
-
+             
        Scanner sc=new Scanner(System.in);
 
        marks[0]=sc.nextInt();
